@@ -40,7 +40,7 @@ This constraint is what makes the project interesting. Building a dynamic, multi
 
 ### Mechanical: Screw Drive Rail System (CREO Parametric)
 
-![Solar Savior CREO Technical Drawing](assets/creo_design.jpg)
+![Solar Savior CREO Technical Drawing]()
 *CREO Parametric technical drawing — screw drive rail assembly with dimension callouts*
 
 The cleaning mechanism uses a **heavy-duty screw drive** rather than a belt-driven or cable-based system. This decision was deliberate and data-backed:
