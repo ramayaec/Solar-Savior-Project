@@ -35,34 +35,6 @@ This constraint is what makes the project interesting. Building a dynamic, multi
 
 ---
 
-##  Repository Structure
-
-```
-solar-savior/
-│
-├── README.md                              ← Project overview (you are here)
-│
-├── docs/
-│   ├── REPORT.md                         ← Full report, all 13 pages embedded inline 
-│   ├── Solar_Savior_Report.docx          ← Original Word document
-│   └── TECHNICAL_NOTES.md               ← Engineering decision rationale
-│
-├── simulation/
-│   ├── solar_panel_simulation.xlsx       ← VBA-powered Excel simulation model
-│   ├── SIMULATION_DOCS.md               ← Deep-dive: parameters, sheets, formulas, VBA logic
-│   └── VBA_WALKTHROUGH.md               ← Step-by-step VBA code walkthrough 
-│
-├── presentation/
-│   ├── PRESENTATION.md                   ← All 12 slides embedded inline with commentary 
-│   └── Solar_Savior_Presentation.pptx   ← Original PowerPoint file
-│
-└── assets/
-    ├── creo_design.jpg                   ← CREO Parametric technical drawing
-    ├── slides/                           ← Slide images (slide-01.jpg … slide-12.jpg)
-    └── report/                           ← Report page images (page-01.jpg … page-13.jpg)
-```
-
----
 
 ##  System Design
 
