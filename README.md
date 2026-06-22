@@ -144,18 +144,6 @@ The simulation confirms that running the cleaning cycle **before 09:00 AM** yiel
 
 ---
 
-##  Technical Skills Demonstrated
-
-This project was an exercise in constraint-driven engineering — making the tools work harder than they were designed to:
-
-- **CREO Parametric** — parametric 3D modeling, assembly constraints, torque/load analysis
-- **Excel formula engineering** — chained multi-variable physics model built entirely in cells
-- **VBA (Visual Basic for Applications)** — wrote custom automation: simulation loops, conditional event triggers (rain, cleaning), dynamic chart refresh, user input handling
-- **Systems thinking** — cross-validated mechanical model specs (motor torque, rail load) against simulation outputs to ensure physical feasibility
-- **Technical communication** — full engineering report with executive summary, methodology, results, sample calculations, and peer-reviewed references
-
----
-
 ##  Future Development
 
 1. **Sensor integration** — real-time dirt detection via optical sensors to trigger cleaning on demand rather than on schedule
