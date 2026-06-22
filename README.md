@@ -31,7 +31,6 @@ For large utility-scale farms, industrial robotic cleaners exist. But for **resi
 
 > **⚠Engineering Constraint:** This project was intentionally restricted to two tools. **CREO Parametric** for mechanical design and **Microsoft Excel** for all simulation, analysis, and automation. No Python, MATLAB, or external simulation software was permitted. Every formula, loop, and chart was built from scratch within these constraints.
 
-This constraint is what makes the project interesting. Building a dynamic, multi-variable physics simulation with a live dashboard inside Excel — using nothing but formulas and VBA — required learning the tools deeply and thinking creatively about what's possible within limits.
 
 ---
 
